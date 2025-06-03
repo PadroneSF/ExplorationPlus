@@ -1,13 +1,11 @@
 {
-    "NAME"       : "Contract Pack - Exploration Plus",
-    "URL"        : "https://raw.githubusercontent.com/PadroneSF/ExplorationPlus/refs/heads/master/GameData/ContractPacks/ExplorationPlus/ExplorationPlus.version",
-    "DOWNLOAD"   : "https://github.com/PadroneSF/ExplorationPlus/releases",
-    "CHANGE_LOG" : "https://raw.githubusercontent.com/PadroneSF/ExplorationPlus/refs/heads/master/ChangeLog.md",
+    "NAME"     : "Contract Pack: Exploration Plus",
+    "URL"      : "https://github.com/severedsolo/ExplorationPlus/raw/master/ExplorationPlus.version",
+    "DOWNLOAD" : "https://github.com/severedsolo/ExplorationPlus/releases",
     "GITHUB" :
     {
-        "USERNAME" : "PadroneSF",
-        "REPOSITORY" : "ExplorationPlus",
-        "ALLOW_PRE_RELEASE":false
+        "USERNAME" : "severedsolo",
+        "REPOSITORY" : "ExplorationPlus"
     },
     "VERSION" :
     {
